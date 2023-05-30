@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slattgram
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular and some React
-- 📫 How to reach me : twitter @pokhnatiuk, insta @dmytropokhnatiuk
+- 🌱 I’m currently working with Angular
+- 📫 How to reach me : insta @dmytropokhnatiuk
 
 <!---
 slattgram/slattgram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
