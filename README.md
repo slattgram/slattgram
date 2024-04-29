@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slattgram
 - 👀 I’m interested in web development
-- 🌱 I’m currently working with Angular
+- 🌱 I’m currently working with Angular and Next
 - 📫 How to reach me : insta @dmytropokhnatiuk
 
 <!---
